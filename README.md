@@ -1,6 +1,6 @@
 <!-- 방문자 수 뱃지 (옵션) -->
 <p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=본인아이디.본인아이디" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=SongminSong1023.SongminSong1023" alt="visitor badge"/>
 </p>
 
 <!-- 제목과 소개 -->
