@@ -1,8 +1,3 @@
-<!-- 방문자 수 뱃지 (옵션) -->
-<p align="right">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=SongminSong1023.SongminSong1023" alt="visitor badge"/>
-</p>
-
 <!-- 제목과 소개 -->
 <h1 align="center">Hi there 👋, I'm MinSeok Song!</h1>
 <p align="center">
