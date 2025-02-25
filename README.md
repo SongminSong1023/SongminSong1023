@@ -32,8 +32,8 @@
 ## 📌 Pinned Repositories
 <!-- 고정해두고 싶은 주요 레포지토리들 -->
 <p>
-  <a href="https://github.com/본인아이디/프로젝트1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=본인아이디&repo=프로젝트1&theme=tokyonight" />
+  <a href="https://github.com/SongminSong1023/review_summarization_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SongminSong1023&repo=review_summarization_project&theme=tokyonight" />
   </a>
   <a href="https://github.com/본인아이디/프로젝트2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=본인아이디&repo=프로젝트2&theme=tokyonight" />
