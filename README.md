@@ -20,15 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<!-- GitHub 통계 카드 -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SongminSong1023&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongminSong1023&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</p>
-
----
-
 ## 📌 Pinned Repositories
 <!-- 고정해두고 싶은 주요 레포지토리들 -->
 <p>
