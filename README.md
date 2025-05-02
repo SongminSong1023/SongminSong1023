@@ -14,7 +14,7 @@
 ---
 
 ## 💡 About Me
-- 🌱 Recent Interest: RAG, NLP, LLM, etc
+- 🌱 Recent Interest: LLM, RecSys, RAG etc
 - 💬 Feel free to contact me if you have any questions!
 - ⚡ Hobby: Badminton🏸, Board games🎲
 
