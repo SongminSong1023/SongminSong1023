@@ -26,8 +26,8 @@
   <a href="https://github.com/SongminSong1023/review_summarization_project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SongminSong1023&repo=review_summarization_project&theme=tokyonight" />
   </a>
-  <a href="https://github.com/본인아이디/프로젝트2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=본인아이디&repo=프로젝트2&theme=tokyonight" />
+  <a href="https://github.com/SongminSong1023/image-matching-challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SongminSong1023&repo=image-matching-challenge&theme=tokyonight" />
   </a>
 </p>
 
