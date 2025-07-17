@@ -14,7 +14,7 @@
 ---
 
 ## 💡 About Me
-- 🌱 Recent Interest: Focused on but not limited to MLLM
+- 🌱 Recent Interest: Focused on but not limited to MultiModal
 - 💬 Feel free to contact me if you have any questions!
 - ⚡ Hobby: Badminton🏸, Board games🎲
 
